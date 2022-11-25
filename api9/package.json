@@ -1,0 +1,9 @@
+{
+  "name": "api9",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "9.9.1"
+  }
+}
